@@ -58,7 +58,7 @@ This means that the following code will fail?
 def hello(number)
     print(number)
 ```
-### Input Validation
+## Input Validation
 
 
 
