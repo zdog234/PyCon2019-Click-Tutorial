@@ -60,6 +60,15 @@ def hello(number)
 ```
 ## Input Validation
 
+## Part 03: Nested Commands
+Make plugins to own command-line tools that allow us to import new subcommands.
+Could create a set of tools that makes subcommands of our application.
+
+## Part 04: Creating Projects and Packages
+Use cookiecutter to create a new project
+FOllow the prompts to enable the CLI
+
+
 
 
 

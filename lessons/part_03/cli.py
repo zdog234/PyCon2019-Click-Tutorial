@@ -3,9 +3,13 @@
 import click
 
 
-@click.command()
+@click.group()
 def cli():
-    print("Hello.")
+    pass
+
+@cli.command()
+def hello():
+    click.secho('Hello!')
 
 
 if __name__ == "__main__":
